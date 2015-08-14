@@ -1,0 +1,15 @@
+F:\WorkPlace\RssReader\RSSReader\bin\Debug\RSSReader.exe.config
+F:\WorkPlace\RssReader\RSSReader\obj\Debug\RSSReader.csprojResolveAssemblyReference.cache
+F:\WorkPlace\RssReader\RSSReader\obj\Debug\RSSReader.MianForm.resources
+F:\WorkPlace\RssReader\RSSReader\obj\Debug\RSSReader.Properties.Resources.resources
+F:\WorkPlace\RssReader\RSSReader\obj\Debug\RSSReader.csproj.GenerateResource.Cache
+F:\WorkPlace\RssReader\RSSReader\bin\Debug\RSSReader.exe
+F:\WorkPlace\RssReader\RSSReader\bin\Debug\RSSReader.pdb
+F:\WorkPlace\RssReader\RSSReader\bin\Debug\RssReader.rss.dll
+F:\WorkPlace\RssReader\RSSReader\bin\Debug\RssReader.rss.pdb
+F:\WorkPlace\RssReader\RSSReader\obj\Debug\RSSReader.exe
+F:\WorkPlace\RssReader\RSSReader\obj\Debug\RSSReader.pdb
+F:\WorkPlace\RssReader\RSSReader\bin\Debug\RssLinks.xml
+F:\WorkPlace\RssReader\RSSReader\obj\Debug\RSSReader.Browser.resources
+F:\WorkPlace\RssReader\RSSReader\obj\Debug\RSSReader.LinksManager.resources
+F:\WorkPlace\RssReader\RSSReader\obj\Debug\RSSReader.AddFeed.resources

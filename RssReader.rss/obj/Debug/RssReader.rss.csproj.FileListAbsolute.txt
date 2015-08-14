@@ -1,0 +1,5 @@
+F:\WorkPlace\RssReader\RssReader.rss\bin\Debug\RssReader.rss.dll
+F:\WorkPlace\RssReader\RssReader.rss\bin\Debug\RssReader.rss.pdb
+F:\WorkPlace\RssReader\RssReader.rss\obj\Debug\RssReader.rss.dll
+F:\WorkPlace\RssReader\RssReader.rss\obj\Debug\RssReader.rss.pdb
+F:\WorkPlace\RssReader\RssReader.rss\obj\Debug\RssReader.rss.csprojResolveAssemblyReference.cache

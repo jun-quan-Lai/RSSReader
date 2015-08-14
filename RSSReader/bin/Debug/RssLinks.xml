@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!-- This file represents a list of rssfeed link -->
+<links>
+	<link>
+		<title>腾讯 - 国际要闻</title>
+		<uri>http://news.qq.com/newsgj/rss_newswj.xml</uri>
+		<defaultshow>true</defaultshow>
+	</link>
+	<link>
+		<title>腾讯 - 国内新闻</title>
+		<uri>http://news.qq.com/newsgn/rss_newsgn.xml</uri>
+		<defaultshow>true</defaultshow>
+	</link>
+	<link>
+		<title>新浪 - 体育新闻</title>
+		<uri>http://rss.sina.com.cn/news/allnews/sports.xml</uri>
+		<defaultshow>true</defaultshow>
+	</link>
+</links>
